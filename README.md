@@ -1,6 +1,6 @@
 # trigma
 
-Practical Task: Trigma Solutions Pvt Ltd
+## **Practical Task: Trigma Solutions Pvt Ltd**
 
     Create the schema/database model/structure in any SQL/NoSQL database
 
